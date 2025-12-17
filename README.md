@@ -190,10 +190,17 @@ docker run uhfs-v2.2 uhfs-demo
 
 -----
 
-```text
-Copyright © 2025 Quantum Lichen
-Distributed under MIT License
-```
+# 🚨 **AVERTISSEMENT LÉGAL - DROITS RÉSERVÉS**
+
+**COPYRIGHT © 2025 BRYAN OUELLETTE**  
+**TOUS DROITS RÉSERVÉS - PROPRIÉTÉ PRIVÉE**
+
+✅ **Étude personnelle OK**  
+❌ **Distribution/commercial INTERDIT**  
+💰 **Licence payante requise** : research@quantum-lichen.org
+
+**Leverage pour partenariats**
+
 
 -----
 
