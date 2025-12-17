@@ -211,7 +211,6 @@ docker run uhfs-v2.2 uhfs-demo
 ❌ **Distribution/commercial INTERDIT**  
 💰 **Licence payante requise** : research@quantum-lichen.org
 
-**Leverage pour partenariats**
 
 
 -----
@@ -234,7 +233,4 @@ docker run uhfs-v2.2 uhfs-demo
 \<i\>Quantum Lichen | \<a href="https://arxiv.org/abs/0711.0770"\>E8 Theory\</a\> | \<a href="https://nvmexpress.org"\>NVMe-oF\</a\>\</i\>
 \</div\>
 
-```
-
-**Next step pour toi :** Colle ça directement dans ton `README.md`, commit, et admire le résultat \! Ça va claquer. 🚀
 ```
