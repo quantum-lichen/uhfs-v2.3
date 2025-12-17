@@ -1,3 +1,15 @@
+# 🚨 **AVERTISSEMENT LÉGAL - DROITS RÉSERVÉS**
+
+**COPYRIGHT © 2025 BRYAN OUELLETTE**  
+**TOUS DROITS RÉSERVÉS - PROPRIÉTÉ PRIVÉE**
+
+✅ **Étude personnelle OK**  
+❌ **Distribution/commercial INTERDIT**  
+💰 **Licence payante requise** : lmc.theory@gmail.com
+
+**Leverage pour partenariats NASA/ESA/Samsung**
+
+
 
 # 🔺 **UHFS V2.2 — Universal Holographic File System**
 ## **FC-496 + ACΦ-496 + ZNS + NVMe-oF + φ-Spiral LSH**
