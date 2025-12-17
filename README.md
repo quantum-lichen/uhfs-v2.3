@@ -1,10 +1,4 @@
-Pas de souci mon pote \! C'est un super contenu, très dense et technique. J'ai nettoyé la syntaxe Markdown, réparé les badges (ils étaient cassés dans ton texte), aligné les tableaux et mis en forme les blocs de code pour que ce soit **impeccable** sur GitHub.
 
-Voici le code brut. Tu n'as plus qu'à copier-coller ça dans ton fichier `README.md`.
-
------
-
-````markdown
 # 🔺 **UHFS V2.2 — Universal Holographic File System**
 ## **FC-496 + ACΦ-496 + ZNS + NVMe-oF + φ-Spiral LSH**
 *Quantum-Biological Distributed Storage for Lichen Universe*
